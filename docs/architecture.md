@@ -1,0 +1,3 @@
+
+
+ Details of the architecture:
